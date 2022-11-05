@@ -9,3 +9,6 @@
 let c = 20
 print(c)
 ```
+
+- [ ] This task is completed
+- [ ] This task is not completed
